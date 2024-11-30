@@ -1,11 +1,11 @@
-#Cafe_Coffee_Day Using Frames Concept of Html#
+Cafe_Coffee_Day Using Frames Concept of Html
 
 Website Link - https://ksaverdekar3009.github.io/Cafe_Coffee_Day/
 
 Project Description:
 Website design built using HTML and the frameset concept, the project serves as a basic yet functional example of how websites can be structured using frames for organizing content into different sections.
 
-#Key Features:#
+Key Features:
 Frameset Structure:
 The website uses HTML frames to divide the webpage into multiple sections, such as a header, navigation menu, and main content area.
 Provides seamless navigation while keeping the layout consistent across all pages.

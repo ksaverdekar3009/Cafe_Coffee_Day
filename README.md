@@ -2,8 +2,8 @@
 
 Website Link - https://ksaverdekar3009.github.io/Cafe_Coffee_Day/
 
-#Project Description:#
-The Cafe Coffee Day project is a simple, responsive, and visually appealing website designed to showcase the offerings and ambiance of a coffee shop. Built using HTML and the frameset concept, the project serves as a basic yet functional example of how websites can be structured using frames for organizing content into different sections.
+Project Description:
+Website design built using HTML and the frameset concept, the project serves as a basic yet functional example of how websites can be structured using frames for organizing content into different sections.
 
 #Key Features:#
 Frameset Structure:
